@@ -1,4 +1,5 @@
 
+/**
  * @param {string[]} code
  * @param {string[]} businessLine
  * @param {boolean[]} isActive
